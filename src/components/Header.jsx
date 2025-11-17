@@ -38,7 +38,7 @@ export default function Header() {
         className="profile-pic"
       />
 
-      <h1 className="title">Ahmed Rafi</h1>
+      <h1 className="title">Muhammad Jawad MR</h1>
 
       <h2 className="typing">
         {titles[index].substring(0, subIndex)}
