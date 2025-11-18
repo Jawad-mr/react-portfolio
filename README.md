@@ -3,8 +3,8 @@
 A simple personal portfolio website built with React and Vite.
 
 ## Links
-- **GitHub Repository:** [your-github-link]
-- **Live Website:** [your-deployment-link]
+- **GitHub Repository:** https://github.com/Jawad-mr/react-portfolio.git
+- **Live Website:** https://portfolio-jawad-theta.vercel.app/
 
 ## Run Locally
 1. Clone the repository
